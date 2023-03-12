@@ -1,7 +1,5 @@
 # Hackthon-2023
 
-Useful scripts:
-https://www.kaggle.com/code/durgancegaur/a-guide-to-any-classification-problem#NON-TREE-BASED-ALGORITHMS
+Active learning for text classification
 
-RFE
-https://github.com/Jing-L97/BC-Prediction
+This project aims to alleviate the lack of labels problem for text classifcation task by repeatedly selecting unlabeled data instances that are deemed informative according to query strategy.
